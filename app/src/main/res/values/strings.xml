@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Personal Profile</string>
+    <string name="txt_header">Roxie</string>
+    <string name="txt_caption">Roxanne waking up</string>
+    <string name="btn_view">view profile</string>
+    <string name="txt_bio">Roxie is about 3 years old and is very playful. She has an absurd amount
+        of toys that she likes to carry and tries to get us to chase her while she has them because
+        she loves running.</string>
+
+</resources>
